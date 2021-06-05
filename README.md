@@ -7,6 +7,7 @@ I love cats :)🐈🐱
 ## Subheader
 added using vs-code
 
+git init
 git clone git@github.com:tulucat/hello-world.git
 git status
 git add . //add all
